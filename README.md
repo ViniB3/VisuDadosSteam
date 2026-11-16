@@ -2,6 +2,7 @@
 
 
 Links do flourish para o bar chart race:
+
   -Todas as reviews
     -https://public.flourish.studio/visualisation/30517346/
 
